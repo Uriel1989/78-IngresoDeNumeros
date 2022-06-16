@@ -1,0 +1,7 @@
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\bin\Debug\IngresoDeNumeroYMostrarPositivoNegativo.exe.config
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\bin\Debug\IngresoDeNumeroYMostrarPositivoNegativo.exe
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\bin\Debug\IngresoDeNumeroYMostrarPositivoNegativo.pdb
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\obj\Debug\IngresoDeNumeroYMostrarPositivoNegativo.csprojAssemblyReference.cache
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\obj\Debug\IngresoDeNumeroYMostrarPositivoNegativo.csproj.CoreCompileInputs.cache
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\obj\Debug\IngresoDeNumeroYMostrarPositivoNegativo.exe
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeroYMostrarPositivoNegativo\obj\Debug\IngresoDeNumeroYMostrarPositivoNegativo.pdb

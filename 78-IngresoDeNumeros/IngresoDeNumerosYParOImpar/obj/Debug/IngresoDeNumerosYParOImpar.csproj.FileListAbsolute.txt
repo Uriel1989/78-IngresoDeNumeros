@@ -1,0 +1,7 @@
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\bin\Debug\IngresoDeNumerosYParOImpar.exe.config
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\bin\Debug\IngresoDeNumerosYParOImpar.exe
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\bin\Debug\IngresoDeNumerosYParOImpar.pdb
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\obj\Debug\IngresoDeNumerosYParOImpar.csprojAssemblyReference.cache
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\obj\Debug\IngresoDeNumerosYParOImpar.csproj.CoreCompileInputs.cache
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\obj\Debug\IngresoDeNumerosYParOImpar.exe
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumerosYParOImpar\obj\Debug\IngresoDeNumerosYParOImpar.pdb

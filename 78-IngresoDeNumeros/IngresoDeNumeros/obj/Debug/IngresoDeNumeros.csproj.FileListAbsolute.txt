@@ -1,0 +1,7 @@
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\bin\Debug\IngresoDeNumeros.exe.config
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\bin\Debug\IngresoDeNumeros.exe
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\bin\Debug\IngresoDeNumeros.pdb
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\obj\Debug\IngresoDeNumeros.csprojAssemblyReference.cache
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\obj\Debug\IngresoDeNumeros.csproj.CoreCompileInputs.cache
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\obj\Debug\IngresoDeNumeros.exe
+C:\Users\tauro\source\repos\IngresoDeNumeros\IngresoDeNumeros\obj\Debug\IngresoDeNumeros.pdb
